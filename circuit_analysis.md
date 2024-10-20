@@ -6,7 +6,9 @@
 - **Discharging**: The voltage across the capacitor exponentially decays to zero. The time constant determines the rate of discharging.
 - **Time Constant**: RC = Resistance * Capacitance.
 
-![RC Circuit Diagram](Simulation-of-RC-RL-Circuit-Response/img/rc_circuit.png) <!-- Relative path to the image -->
+![RC Circuit Diagram](img/rc_circuit.png) 
+
+
 
 ## RL Circuit
 
@@ -14,8 +16,7 @@
 - **Current Decay**: The current in the circuit exponentially decays from its steady-state value to zero. The time constant determines the rate of decay.
 - **Time Constant**: RL = Resistance * Inductance.
 
-![RL Circuit Diagram](Simulation-of-RC-RL-Circuit-Response/img/rl_circuit.png) <!-- Relative path to the image -->
-
+![RL Circuit Diagram](img/rl_circuit.png)
 ## Comparison
 
 - Both RC and RL circuits exhibit exponential behavior due to the presence of a capacitor or inductor, respectively.
