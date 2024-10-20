@@ -31,7 +31,7 @@ This project simulates the transient response of *RC (Resistor-Capacitor)* and *
    
 2. Open MATLAB and navigate to the folder where the script is located.
 
-3. Open the script file rc_rl_simulation.m in MATLAB.
+3. Open the script file in MATLAB.
 
 4. Run the scripts from /scripts folder in the MATLAB environment.
    
