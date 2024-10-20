@@ -6,7 +6,7 @@
 - **Discharging**: The voltage across the capacitor exponentially decays to zero. The time constant determines the rate of discharging.
 - **Time Constant**: RC = Resistance * Capacitance.
 
-![RC Circuit Diagram](images/download.png) <!-- Relative path to the image -->
+![RC Circuit Diagram](.rc circuit.png) <!-- Relative path to the image -->
 
 ## RL Circuit
 
